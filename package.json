@@ -1,0 +1,28 @@
+{
+  "name": "youtube-mp3-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xacnio/youtube-mp3-rest.git"
+  },
+  "author": "Xacnio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xacnio/youtube-mp3-rest/issues"
+  },
+  "homepage": "https://github.com/Xacnio/youtube-mp3-rest#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "browser-id3-writer": "^4.4.0",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "glob": "^7.1.6",
+    "yt-search": "^2.7.6",
+    "ytdl-core": "^4.5.0"
+  }
+}
