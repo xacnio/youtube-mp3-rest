@@ -105,3 +105,4 @@ dist
 
 # MP3 Files
 mp3/*
+!mp3/.gitkeep
